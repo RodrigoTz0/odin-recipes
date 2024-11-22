@@ -1,0 +1,17 @@
+* {
+    font-family: sans-serif, "Times New Roman";
+}
+
+#all {
+    background-color: rgba(91, 136, 187, 0.404);
+}
+
+h1{
+    color: rgb(196, 6, 6);
+    background-color: aliceblue;
+}
+
+.cont {
+    justify-content: center;
+    background-color: rgb(217, 233, 247);
+}
